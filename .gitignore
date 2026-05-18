@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+
+# Logs
+*.log
+
+# Data (raw input files — keep format docs but not the actual data)
+data/otutab.txt
+data/taxonomy.txt
+
+# Results
+results/*.csv
+results/*.txt
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
