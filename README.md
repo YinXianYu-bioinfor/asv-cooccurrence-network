@@ -132,10 +132,10 @@ If you use this pipeline in your research, please cite the repository:
 
 ```bibtex
 @software{asv_cooccurrence_network,
-  author = {Your Name},
+  author = Xianyu Yin,
   title = {ASV Co-occurrence Network Analysis},
   year = {2026},
-  url = {https://github.com/yourusername/asv-cooccurrence-network}
+  url = {https://github.com/YinXianYu-bioinfor/asv-cooccurrence-network}
 }
 ```
 
@@ -273,10 +273,10 @@ CLR(x_i) = ln(x_i / g(x))
 
 ```bibtex
 @software{asv_cooccurrence_network,
-  author = {Your Name},
+  author = Xianyu Yin,
   title = {ASV Co-occurrence Network Analysis},
   year = {2026},
-  url = {https://github.com/yourusername/asv-cooccurrence-network}
+  url = {https://github.com/YinXianYu-bioinfor/asv-cooccurrence-network}
 }
 ```
 
